@@ -1,0 +1,2 @@
+# RPICoin BOOTSTRAP.DAT 
+ 
